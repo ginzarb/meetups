@@ -2,8 +2,8 @@
 
 - [twitter](https://twitter.com/saber_chica)
 
-Rubyが好きななWebエンジニア。
-RICOH THETAを開発してます。
+Rubyが好きななWebエンジニア。  
+RICOH THETAを開発してます。  
 最近はアAndroidアプリを作ってます。 
 
 ## 最近気になること
