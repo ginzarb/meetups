@@ -7,8 +7,10 @@
 
 流しのRailsエンジニアをしています。Ginza.rb主催のひとり。[デザインビギナーズ](http://debeg.doorkeeper.jp/)というコミュニティも主催しています。
 
-最近はGithubの草を生やすことが趣味です。あとは英語のリスニングの勉強。最近ヒヤリングマラソン始めました。
-
 ## 最近気になること
 
-あとでかく
+[ゆるふわ Development Club #yurudev](http://yurufuwa.club/) というのを始めました
+
+詳細はこちら
+
+[ゆるふわ Development Club というサークルができた - willnet.in](http://willnet.in/140)
