@@ -3,7 +3,7 @@
 - [Qiita](http://qiita.com/Oakbow)
 - [github](https://github.com/oakbow)
 - [twitter](https://twitter.com/Oakbow7)
-- [おしえて.rb](http://oshiete.doorkeeper.jp/)
+- [おしえて.rb](http://oshieterb.doorkeeper.jp/)
 
 ~~渋谷で~~丸の内でWebサービスをRailsを使って開発しています。
 
