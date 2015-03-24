@@ -16,3 +16,5 @@
  - [めん徳 二代目 つじ田 日本橋八重洲店 - 日本橋/つけ麺 [食べログ]](http://tabelog.com/tokyo/A1302/A130202/13158035/)
 - bitbucket でどこまで Github っぽく開発できるか
  - [bitbucket について - おもしろwebサービス開発日記チラシの裏](http://memo.willnet.in/entry/2015/03/16/142230)
+- heroku で cron
+ - [Scheduled Jobs and Custom Clock Processes | Heroku Dev Center](https://devcenter.heroku.com/articles/scheduled-jobs-custom-clock-processes)
