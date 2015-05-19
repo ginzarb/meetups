@@ -15,3 +15,4 @@ Ruby, iOS, Android Java, Java, PHPッて感じのエンジニア。最近はRuby
 
 - 目の前のことにこまりんぐ
 - SidekiqがProcess稀に死んでJob(queue)が失われるからProにupgradeしないと...
+- 求人中で、毎日CodeIQっていうサイトで人のコードを見まくってます。Haskellとか色々ｗ
