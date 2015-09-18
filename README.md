@@ -1,6 +1,8 @@
 meetups
 =======
 
+[![Join the chat at https://gitter.im/ginzarb/meetups](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ginzarb/meetups?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ginza.rb のミートアップ記録用のリポジトリです。wiki に情報をまとめています。
 
 ## links
