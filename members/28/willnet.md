@@ -11,3 +11,4 @@
 - 合宿してました
     - [群馬 草津温泉　ペンション マイウェー:My Way](http://kusatsu-myway.com/)
 - 引っ越し準備で忙しい
+- [医療界にインパクトを与えるクラウドサービスを一緒に開発しませんか？ - クリニカル・プラットフォーム株式会社の求人 - Wantedly](https://www.wantedly.com/projects/29880)
