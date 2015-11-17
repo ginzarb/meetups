@@ -13,4 +13,4 @@ Ruby 関西の代表をやったり、関西Ruby会議の実行委員長をや�
 ## 最近気になること
 * 自動 code review 技術をいろいろ調査しています
   * Code Climate, Codacy, Scrutinizer, PullReview etc
-* 東京でのRuby勉強会をいろいろ参加してみたいな、と思っています。
+* いろんなRuby勉強会に参加してみたいな、と思っています。
