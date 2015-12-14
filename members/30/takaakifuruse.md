@@ -1,7 +1,6 @@
 # TakakiFuruse
 
-Tsuyoshi Sano
-
+Takaaki Furuse
 - [github](https://github.com/TakaakiFuruse)
 - [qiita](http://qiita.com/TakaakiFuruse)
 
