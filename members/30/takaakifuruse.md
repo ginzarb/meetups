@@ -1,4 +1,4 @@
-# TakakiFuruse
+# TakaakiFuruse
 
 Takaaki Furuse
 - [github](https://github.com/TakaakiFuruse)
