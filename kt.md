@@ -4,7 +4,7 @@
 - [twitter](https://twitter.com/tsukiyodrum)
 - [qiita](http://qiita.com/tikidunponpon)
 
-仕事で最近railsをはじめましたー
+仕事で最近railsのAPIを書きましたー
 
 ## 最近気になること
 - railsでパフォーマンス最大化
@@ -13,4 +13,4 @@
 - mixpanel、kissmetricsとかのグロースハックツール
 - nginx,unicon周り
 - セキュリティ周り
-- アジャイルとか実際回ってます？
+
