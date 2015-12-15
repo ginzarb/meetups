@@ -1,5 +1,5 @@
 # @xiz-tky
-
+Shizuka Kakimoto  
 - [github](https://github.com/xiz-tky)
 
 以前4年ほどJavaの開発者をしておりましたが、今は社員９名のコンサル会社に所属しております。  
