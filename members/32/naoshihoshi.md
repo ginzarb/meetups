@@ -1,6 +1,7 @@
 # @NaoshiHoshi
 
 - [blog](http://saitou.hatenablog.com/)
+- [blog - pixta](http://texta.pixta.jp/)
 - [github](https://github.com/hoshinaoshi)
 - [twitter](https://twitter.com/naoshihoshi)
 
