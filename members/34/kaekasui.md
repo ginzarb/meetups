@@ -4,6 +4,5 @@
 
 - フリーなrailsエンジニアしてます。
 - 最近はSPAのAPI側の開発と保守を主にやってます。
-- なのでAngularJSとRailsでサイト作ってます。
-- http://account-book-pig.herokuapp.com/ （そろろそドメイン取得する予定）
+- プライベートでAngularJSとRailsでサイト作ってます。
 - Swiftに興味もってます。もうすぐ勉強はじめます。
