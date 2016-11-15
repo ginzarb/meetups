@@ -7,8 +7,9 @@
 * [twitter](https://twitter.com/r_takaishi)
 
 渋谷からきました。
-2015-2016: ruby(sinatra)メイン時々インフラ
-2016-: インフラメインでrubyやmrubyを書いています。ごくまれにRails。
+
+* 2015-2016: ruby(sinatra)メイン時々インフラ
+* 2016-: インフラメインでrubyやmrubyを書いています。ごくまれにRails。
 
 # 最近気になること
 
