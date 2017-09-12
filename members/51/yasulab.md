@@ -11,3 +11,10 @@
 * ぎんざRuby会議以来の参加です! よろしくお願いします :bow:
 * Active Storage に釣られて参加表明しました 🎣
 * [Doorkeeperスポンサーシップ](https://yasslab.jp/ja/doorkeeper/)もやってます。もしご興味あれば :pray:
+
+## RubyKaigi スケジュール
+
+- -2日目 (金) 広島到
+- -1日目 (土) CoderDojo's mini-confenrece [DojoBudokai](http://www.coderdojo-hiroshima.com/budokai) 基調講演 + 懇親会
+-  0日目 RubyKaigi 前夜祭 LT 
+-  1日目〜3日目 RubyKaigi 2017 as a Translation Supporter
