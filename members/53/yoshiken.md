@@ -1,6 +1,6 @@
 # @yoshiken
 
-![gyazo](https://gyazo.com/210b0aac6140cb3f08ccc9a7aa9bc449.png)
+![gyazo](https://gyazo.com/47ed03f54bc6d199a8a48c24c408f420.png)
 
 * [GitHub](https://github.com/KentaYoshitani)
 
