@@ -14,5 +14,9 @@
 
 [会社からも本が出ました( ﾟ∀ﾟ)o彡ﾟ](https://ota42y.com/blog/2018/10/07/techbook_5_result/)
 
+[ecommitteeのコミッターになりました](https://github.com/interagent)　　
+OpenAPI3は少々お待ちを…
+
+
 ## 最近気になっていること
 - AWS Sagemaker
