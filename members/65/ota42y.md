@@ -6,8 +6,11 @@
 
 謎のヘルスケアベンチャー企業でRailsエンジニアやってます。  
 
+[技術書典の本がセール中](https://internet.watch.impress.co.jp/docs/news/1152862.html)  
+気がついたらAmazon Japanの公式プレゼンの中にチラッといたり、クラスメソッドさんがブログ書いていたり…(((;ﾟДﾟ)))ｶﾞｸﾌﾞﾙｶﾞｸﾌﾞﾙ
+
 [ecommitteeのOpenAPI3対応をしています](https://ota42y.com/blog/2018/11/19/committee_3/)    
-手元のプロジェクトで一通り動くんじゃねって所までは行きました
+手元のプロジェクトで全てのrequest specが動いたねって所までは行きました
 
 Developper Boostというイベントで喋ります。  
 何も考えずにアイコンを上げたらKONOZAMA  
