@@ -11,5 +11,5 @@ Railsでお仕事をしています。
 
 * Twitterを利用した[漫画サービス](https://github.com/colorbox/twitter_comic_viewer)を作成中、今週中にアルファ版を公開したい。
 * Twitterの発言から顔文字抽出できないか調査中、とりあえずツイートを600万個くらい集めた。
-* UK.govで使われているのを見て、[Hakiri[(https://hakiri.io/)を使ってたりしていた。
+* UK.govで使われているのを見て、[Hakiri](https://hakiri.io/)を使ってたりしていた。
 
