@@ -14,4 +14,5 @@ Recent Interest
 ----
 
 - RubyKaigi2019には当日の朝現地入りします
-- [helix](https://usehelix.com)を利用したgemをリリースしてみました
+- [helix](https://usehelix.com)を利用して作った[altsv](https://rubygems.org/gems/altsv/)というgemをリリースしてみました。
+  - [オリジナル](https://rubygems.org/gems/ltsv)に比べてだいたい1.3-1.4倍くらい処理が速くなりました
