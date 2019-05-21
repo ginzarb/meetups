@@ -14,4 +14,5 @@ Rails受託メインのRubyKaigi 2019プラチナスポンサーです。
 - 自社サービスを GKE + Cloud SQL でやろうと思って進めつつあります。
 - それとは別に Cloud Pub/Sub + Cloud Functions + Puppeteer でスケーラブルなスクレイピング基盤を作ってみたいと思ってはじめました。
   - 今日は docker-compose で Pub/Sub Emulator やら Functions Framework やらを準備して、開発環境を作って Puppeteer を動かしました。
-- 今動いているRails案件は Edge Rails / 6.0.0rc1 / 5.2.3 です。早々にすべて6以上にします。
+- 今動いているRails案件は Edge Rails / 6.0.0rc1 / 5.2.3 です。早々にすべて6以上にするべく、今日の話を聞いて気持ちを高めたいと思います。
+- ポケGoに待望のアップデート
