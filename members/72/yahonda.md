@@ -9,3 +9,4 @@ ActiveRecord Oracle enhanced adapter maintainer / Rails Contributor / Oracle ACE
 
 * Rails 6.0のリリーススケジュール
 * WEB+DB PRESS Vol.111
+* [銀座Rails#11](https://ginza-rails.connpass.com/event/135452/)で`ActiveRecord::Migration`について話します
