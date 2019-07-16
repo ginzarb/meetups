@@ -19,3 +19,5 @@
 * WSL2
 * Nagano.rb <https://naruby.connpass.com/event/133449/>
   * 30分ほど話す予定だけど資料がまったくできてない。
+* 翔泳社の50%オフ今日まで <https://www.shoeisha.co.jp/book/campaign/ebook201907/>
+
