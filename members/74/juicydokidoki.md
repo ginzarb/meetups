@@ -1,4 +1,4 @@
-# @juiydokidoki
+# @juicydokidoki
 
 中村修治
 
