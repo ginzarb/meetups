@@ -2,7 +2,7 @@
 
 ![ken1flan](https://gravatar.com/avatar/6d5dbb7f4489227b5e85860f37bceb52?s=120)
 
-- [blog](https://www.tumblr.com/blog/ken1flan)
+- [blog](https://ken1flan.tumblr.com)
 - [github](https://github.com/ken1flan)
 - [twitter](https://twitter.com/ken1flan)
 
