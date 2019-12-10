@@ -15,4 +15,5 @@
 
 * `default_scope` たのしー
 * `default_scope` つらいー
-* つよつよマシンほしい<del>AMD Ryzen 9 3950X ほしい</dek>
+* つよつよマシンほしい<del>AMD Ryzen 9 3950X ほしい</del>
+
