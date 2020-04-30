@@ -1,5 +1,8 @@
 # @youchan
 
+* https://twitter.com/youchan
+* https://github.com/youchan
+
 ## Position
 
 レトリバという会社で自然言語処理を応用した製品の開発をしています。
