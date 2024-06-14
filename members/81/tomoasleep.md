@@ -29,3 +29,4 @@ Qiita Inc. のエンジニアです。
   * [RubyKaigi 2024 Wrap Party - connpass](https://connpass.com/event/318501/) でその辺話す予定です
 * 型周りの開発体験に興味があって、最近はそのへんをよく追いかけています。
   * 去年は [Sorbetやっていき(たい)宣言 - Speaker Deck](https://speakerdeck.com/tomoasleep/sorbetyatuteiki-tai-xuan-yan) の気持ちだったのですが、 rbs-inline の登場と、 rbs 関連のコミュニティが少しずつ盛り上がっているので、 rbs にも気持ちが傾いています。
+* https://www.samsung.com/jp/smartphones/galaxy-z-fold5/ 買ったのですが、コードを読み易いわ、iPad を持ち歩かずに済むようになったわで、最高でした。
