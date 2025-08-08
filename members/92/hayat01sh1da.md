@@ -1,0 +1,7 @@
+- Ruby Association Activity Report の準備全然終わってない
+- RailsWorld のホテル予約日付ミスって、キャンセル代で10万近く溶けた😭
+- ゆるく転職活動中
+- 生成 AI ツールは GitHub Copilot Agent。テスト書かせたら冗長な書き方するし無意味なモックやスタブをしたので教育中。いい感じにはなってきたが疲れる。
+- 分割モノリス Rails アプリのスパゲッティエコシステムの負債解消して「The Rails Way とは...」を最近よく考える
+- 先月は小田和正のコンサート行った。10月は Oasis at 東京ドーム Premium Seat(7-8万くらい)、冬は B'z(抽選中)
+- カラオケが趣味でずっと気になっていた[ワンカラ](https://translate.google.com/translate?u=https://www.1kara.jp/&hl=en&sl=ja&tl=en&client=search)に行ってみた。多分ヘビーユーザーになる
