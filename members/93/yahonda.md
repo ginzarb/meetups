@@ -1,0 +1,15 @@
+# @yahonda
+
+[Rails committer](https://rubyonrails.org/community)
+
+- [GitHub](https://github.com/yahonda)
+- [X](https://twitter.com/yahonda)
+
+## 最近
+
+- [Kaigi on Rails 2025](https://kaigionrails.org/2025/) 登壇しました
+  - [Rails の PostgreSQL 18 対応](https://speakerdeck.com/yahonda/railsnopostgresql-18dui-ying)
+- [RailsTokyo #1](https://railstokyo.connpass.com/event/363339/) 登壇しました
+  - [Rails の話をしよう](https://speakerdeck.com/yahonda/railsnohua-wosiyou)
+- [Rails 8.1.0.rc1](https://x.com/rails/status/1978265145353605144) 出ました
+  - Ginza.rb 第 93 回の日までに Rails 8.1.0 がリリースされているかどうか
