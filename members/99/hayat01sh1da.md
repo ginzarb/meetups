@@ -6,7 +6,7 @@
 
 - 氏名: 石田隼人
 - 出身: 埼玉県
-- 開発ドメイン: 教育(一身上の都合でお休み中)
+- 開発ドメイン: 教育(※ 一身上の都合で仕事お休み中)
 - 趣味:
   - 愛猫(三毛猫♀)との戯れ🐈
   - アコースティックギター🎸
@@ -32,7 +32,7 @@
 
 <img width="300" alt="Gibson Custom Shop Hummingbird Torch -Ebony Gloss-" src="https://github.com/user-attachments/assets/db853c35-b4ac-4fc7-963e-1797d8f3379a" />
 
-↑ Gibson Custom Shop Hummingbird Torch -Ebony Gloss- というお高い(¥536,000)エレアコギターを8月の頭に一括で買ってしまい緊縮財政中(懇親会不参加でお願いします)
+↑ **Gibson Custom Shop Hummingbird Torch -Ebony Gloss-**(¥500k+) というエレアコギターに一目惚れして一括購入したので絶賛緊縮財政中(懇親会不参加でお願いします🙇)
 
 ---
 
