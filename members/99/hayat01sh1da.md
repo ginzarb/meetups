@@ -5,16 +5,15 @@
 <img width="300" alt="みゆき" src="https://github.com/user-attachments/assets/f014b5f4-65f5-4d38-a2fc-16135b3e1362" />
 
 - 氏名: 石田隼人
-- 年齢: 35歳
 - 出身: 埼玉県
-- 所属: 株式会社リクルート(2025年12月~ 休職中)
+- 開発ドメイン: 教育(一身上の都合でお休み中)
 - 趣味:
   - 愛猫(三毛猫♀)との戯れ🐈
   - アコースティックギター🎸
   - カラオケ🎤
-  - LIVE 鑑賞(去年から今年にかけては Oasis と B'z と小田和正)
+  - LIVE 鑑賞(去年から今年にかけては Oasis と B'z と小田和正、今月は Pearl 主催イベントで Shane Gaalaas とラルクの yukihiro)
  
-## 2. Ruby / Rails 周りの
+## 2. Ruby / Rails 周り(WIP)
 
 - DHH の例の Keynote Speech は行間をめっちゃ汲み取る必要があるなと思った
   - Rails World という集大成の場で「Rails はもう終わり、これからは Rust だ！」は額面通りに受け取ってしまうと、とりわけコミッターやメンテナーが「やってらんねえよ」と匙を投げるリスクがあるので、そんな誰でも分かりそうな結末に着地するような愚かなことは作者自身がするとは思えなかった
@@ -33,8 +32,9 @@
 
 <img width="300" alt="Gibson Custom Shop Hummingbird Torch -Ebony Gloss-" src="https://github.com/user-attachments/assets/db853c35-b4ac-4fc7-963e-1797d8f3379a" />
 
-- ↑ Gibson Custom Shop Hummingbird Torch -Ebony Gloss- というお高い(¥536,000)エレアコギターを8月の頭に一括で買ってしまい緊縮財政中(懇親会不参加でお願いします)
-- 休職から復帰するタイミングとコンディションの見極めが超絶難しい
+↑ Gibson Custom Shop Hummingbird Torch -Ebony Gloss- というお高い(¥536,000)エレアコギターを8月の頭に一括で買ってしまい緊縮財政中(懇親会不参加でお願いします)
+
+---
 
 <details>
 <summary>個人メモ</summary>
